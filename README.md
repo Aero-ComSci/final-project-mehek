@@ -6,6 +6,7 @@ The main point of my code is to play a quick game in your freetime, especially b
 
 Photo links:
 https://drive.google.com/drive/folders/1oi2cv_7xF-HSC-JYq6eDh4BSDPIvN__5?usp=sharing
+(didn't have time to put the image on README)
 
 This code should be a re-evaluation for the following topics:
 - Print
